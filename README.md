@@ -1,4 +1,5 @@
 # 69云自动签到 Cloudflare Worker
+📦 一个基于 Cloudflare Workers 的 69云自动签到工具，无需本地环境，直接通过 Cloudflare 网页控制台部署的自动签到服务，支持Telegram 通知。
 
 ## 🚀 核心功能
 
