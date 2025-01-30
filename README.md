@@ -39,7 +39,6 @@
 1. 进入「Triggers」→ 「Cron Triggers」
 2. 添加新触发器：
    - Cron表达式：`0 0 * * *` (UTC时间每天0点/北京时间8点)
-   - 选择部署环境：Production
 
 ### 第五步：获取访问地址
 部署完成后，在「Workers」→ 「Overview」获取您的专属域名：
