@@ -109,3 +109,6 @@ A: 通过 `MAX_RETRY` 变量控制，建议不超过5次
 1. Worker运行日志（「Overview」→ 「Logs」）
 2. 错误截图
 3. 配置信息（敏感信息打码）
+
+# 🙏 致谢
+[CM大佬](https://github.com/cmliussss2024/CF-Workers-checkin)
